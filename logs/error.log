@@ -1,0 +1,4 @@
+2017/10/08 02:14:43 [emerg] 4656#0: unexpected "}" in /home/dzmitry/nginx/conf/nginx.conf:74
+2017/10/08 02:16:40 [emerg] 4713#0: unexpected "}" in /home/dzmitry/nginx/conf/nginx.conf:73
+2017/10/08 10:25:57 [emerg] 2660#0: unexpected "}" in /home/dzmitry/nginx/conf/nginx.conf:73
+2017/10/08 10:35:44 [emerg] 3841#0: unknown directive "vhost_traffic_status_display_format_html" in /home/dzmitry/nginx/conf/nginx.conf:56
