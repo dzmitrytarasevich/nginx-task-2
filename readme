@@ -1,0 +1,3 @@
+yum must make 
+cp /home/dzmitry/nginx/conf/nginx.service /lib/systemd/system/
+chmod +x /lib/systemd/system/nginx.service
